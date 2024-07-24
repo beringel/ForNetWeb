@@ -8,8 +8,8 @@ hero:
   tagline: Funded by the German Research Foundation. Project number 531800604.
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: About the project
+      link: /about-the-project
     - theme: alt
       text: API Examples
       link: /api-examples
