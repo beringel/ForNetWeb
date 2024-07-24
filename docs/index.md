@@ -13,6 +13,9 @@ hero:
     - theme: brand
       text: Team
       link: /team
+    - theme: brand
+      text: Zotero library
+      link: /zotero
       
 ---
 
