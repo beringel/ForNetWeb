@@ -10,7 +10,7 @@ hero:
     - theme: brand
       text: About the project
       link: /about-the-project
-    - theme: alt
+    - theme: brand
       text: Team
       link: /team
       
