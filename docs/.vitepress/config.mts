@@ -16,7 +16,8 @@ export default defineConfig({
         text: 'Navigation',
         items: [
           { text: 'About the project', link: '/about-the-project' },
-          { text: 'Team', link: '/team' }
+          { text: 'Team', link: '/team' },
+          { text: 'Zotero', link: '/zotero' }
         ]
       }
     ],
