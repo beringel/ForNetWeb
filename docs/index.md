@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "ForNet"
+  text: "Forgeries and Network"
+  tagline: Funded by the German Research Foundation. Project number 531800604.
   actions:
     - theme: brand
       text: Markdown Examples
