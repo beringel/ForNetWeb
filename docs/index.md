@@ -3,9 +3,8 @@
 layout: home
 
 hero:
-  name: "ForNet"
-  text: "Forgeries and Network"
-  text: "The Mittheilungen des Museen-Verbandes and forgery networks in the 20th century"
+  name: "Forgeries and Networks"
+  text: "The Mittheilungen des Museen-Verbandes and forgery networks in the 20th century""
   tagline: Funded by the German Research Foundation. Project number 531800604.
   actions:
     - theme: brand
