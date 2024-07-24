@@ -9,14 +9,14 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Examples', link: '/about-the-project' }
     ],
 
     sidebar: [
       {
         text: 'Examples',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
+          { text: 'Markdown Examples', link: '/about-the-project' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
