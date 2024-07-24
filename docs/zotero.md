@@ -1,6 +1,4 @@
-# Project bibliography and links
-
-## Zotero library
+# Zotero library
 
 The ForNet team has created a [ZOTERO library](https://www.zotero.org/groups/5523825/fornet/library) in which we share our own project publications as well as related literature and the metadata of sources we have used for the project.
 
