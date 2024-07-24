@@ -11,8 +11,8 @@ hero:
       text: About the project
       link: /about-the-project
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Team
+      link: /team
       
 ---
 
