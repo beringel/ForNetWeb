@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "ForNetWeb",
+  title: "Forgeries and Networks",
   description: "Website of the ForNet project",
   base: "/ForNetWeb/",
   themeConfig: {
